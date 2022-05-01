@@ -1,5 +1,5 @@
 # mpp-serialisation
-Reproduction of kotlinx-serialization issue
+Reproduction of kotlinx-serialization issue (see https://github.com/Kotlin/kotlinx.serialization/issues/1914)
 
 ## To reproduce
 
